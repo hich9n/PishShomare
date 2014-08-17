@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">پیش‌شماره</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">به‌روزرسانی مخاطبین</string>
+    <string name="done"> شماره اصلاح شد.</string>
+    <string name="single">دریافت شماره تلفن جدید</string>
+    <string name="message">به تازگی طرح یک‌سان‌سازی کدها در تعدادی از استان‌ها اجرا شده است.\n این برنامه پیش‌شماره‌های قبلی شهرهای مختلف را برایتان به سادگی تصحیح می‌کند.</string>
+    
+    
+</resources>
